@@ -1,37 +1,36 @@
 
 ## 🚀 Full Stack Developer | Backend & Data Enthusiast | Architecting Scalable & Secure Systems
-
+<div align="center">
 ### 🛠 Tech Stack
 
 #### 🌐 Frontend & Core Web
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" />
 </p>
 
 #### ⚙️ Backend & Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5" />
 </p>
 
 #### 🏗️ Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,docker,githubactions,jest&perline=4" />
 </p>
 
 #### 🔧 Tools & Workflow
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,postman,vscode&perline=5" />
 </p>
 
----
 #### 🧪 Quality & Project Management (Soon in Progress)
 
 | Jira (Issue Tracking) |
 |:---:|
 | <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" alt="Jira"/> |
 
----
+
 
 ## 📈 GitHub Metrics
 
@@ -42,15 +41,15 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wahab-Al&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+</div>
 
---- 
 
 ## 📈 Coding Activity
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Wahab-Al&theme=github-dark)
 
 
----
+
 
 ## 🎯 Current Roadmap
 *These are my strategic learning goals for 2026:*
