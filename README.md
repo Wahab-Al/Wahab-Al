@@ -1,31 +1,31 @@
 
-# 🚀 Full Stack Developer | Backend & Data Enthusiast
+## 🚀 Full Stack Developer | Backend & Data Enthusiast | Architecting Scalable & Secure Systems
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### 🌐 Frontend & Core Web
+#### 🌐 Frontend & Core Web
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" />
 </p>
 
-### ⚙️ Backend & Databases
+#### ⚙️ Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5" />
 </p>
 
-### 🏗️ Foundational Knowledge (DevOps & Logic)
+#### 🏗️ Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,docker,githubactions,jest&perline=4" />
 </p>
 
-### 🔧 Tools & Workflow
+#### 🔧 Tools & Workflow
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,postman,vscode&perline=5" />
 </p>
 
 ---
-### 🧪 Quality & Project Management (Soon in Progress)
+#### 🧪 Quality & Project Management (Soon in Progress)
 
 | Jira (Issue Tracking) |
 |:---:|
