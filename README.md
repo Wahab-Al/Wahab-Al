@@ -1,26 +1,26 @@
 
 ## 🚀 Full Stack Developer | Backend & Data Enthusiast | Architecting Scalable & Secure Systems
-<div align="center">
+
 ### 🛠 Tech Stack
 
 #### 🌐 Frontend & Core Web
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" />
 </p>
 
 #### ⚙️ Backend & Databases
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5" />
 </p>
 
 #### 🏗️ Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,docker,githubactions,jest&perline=4" />
 </p>
 
 #### 🔧 Tools & Workflow
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=github,postman,vscode&perline=5" />
 </p>
 
@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wahab-Al&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-</div>
+
 
 
 ## 📈 Coding Activity
