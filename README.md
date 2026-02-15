@@ -30,7 +30,9 @@
 |:---:|
 | <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" alt="Jira"/> |
 
+## 📈 Coding Activity
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Wahab-Al&theme=github-dark)
 
 ## 📈 GitHub Metrics
 
@@ -41,15 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wahab-Al&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
-
-
-## 📈 Coding Activity
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Wahab-Al&theme=github-dark)
-
-
-
 
 ## 🎯 Current Roadmap
 *These are my strategic learning goals for 2026:*
