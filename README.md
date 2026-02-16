@@ -1,5 +1,5 @@
 
-## 🚀 Full Stack Developer | Backend & Data Enthusiast | Architecting Scalable & Secure Systems
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=500&color=3FCD63&background=FFFD2D00&width=435&lines=Full+Stack+Developer+(MERN);Backend+%26+Data+Enthusiast+;+Architecting+Scalable+%26+;Secure+Systems)](https://git.io/typing-svg)
 
 ### 🛠 Tech Stack
 
