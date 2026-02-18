@@ -3,10 +3,12 @@
 
 ### 🛠 Tech Stack
 
+
 #### 🌐 Frontend & Core Web
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" />
 </p>
+
 
 #### ⚙️ Backend & Databases
 <p align="left">
