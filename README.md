@@ -18,7 +18,7 @@
 #### 🏗️ Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,docker,githubactions,jest&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,githubactions&perline=4" />
 </p>
 
 #### 🔧 Tools & Workflow
@@ -28,9 +28,9 @@
 
 #### 🧪 Quality & Project Management (Soon in Progress)
 
-| Jira (Issue Tracking) |
-|:---:|
-| <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" alt="Jira"/> |
+| Jira (Issue Tracking) | Jest (Testing) |
+|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" alt="Jira"/> | <img src="https://cdn.simpleicons.org/jest/C21325" width="48" alt="Jest"/> |
 
 ## 📈 Coding Activity
 
