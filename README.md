@@ -26,9 +26,19 @@
   <img src="https://skillicons.dev/icons?i=github,postman,vscode&perline=5" />
 </p>
 
-#### 🧪 Quality & Project Management (Soon in Progress)
+### 🔜 Upcoming Integrations
 
-| Jira (Issue Tracking) | Jest (Testing) |
+#### 🗄️ Database & ORM
+
+| Prisma |
+|:---:|
+| <img src="https://cdn.simpleicons.org/prisma/7ED957" width="48" alt="Prisma"/> |
+
+---
+
+#### 🧪 Quality Assurance & Project Management
+
+| Jira | Jest |
 |:---:|:---:|
 | <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" alt="Jira"/> | <img src="https://cdn.simpleicons.org/jest/C21325" width="48" alt="Jest"/> |
 
@@ -60,3 +70,11 @@
 <!-- <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
+
+<!-- <p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50"/>
+  <img src="https://cdn.simpleicons.org/prisma/66FF99" width="50"/>
+  <img src="https://cdn.simpleicons.org/jest/C21325" width="50"/>
+</p> -->
