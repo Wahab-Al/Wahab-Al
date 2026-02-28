@@ -18,7 +18,7 @@
 #### 🏗️ Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,docker,githubactions&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,githubactions,tailwind&perline=4" />
 </p>
 
 #### 🔧 Tools & Workflow
