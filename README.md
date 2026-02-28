@@ -6,7 +6,7 @@
 
 #### 🌐 Frontend & Core Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux&perline=5" />
 </p>
 
 
