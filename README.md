@@ -42,13 +42,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wahab-Al&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🎯 Current Roadmap
-*These are my strategic learning goals for 2026:*
-
-- [ ] 🏛 **Relational Database Design (SQL):** Mastering complex schemas for high-performance data systems.
-- [ ] ⚡ **TypeScript Mastery:** Moving from foundational to advanced design patterns in Node.js.
-- [ ] 🐳 **Cloud & DevOps:** Implementing Docker and GitHub Actions in production-grade MERN apps.
-
 ---
 
 <p align="center">
