@@ -29,10 +29,6 @@
 
 
 
-## 📈 Coding Activity
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Wahab-Al&theme=github-dark)
-
 ## 📈 GitHub Metrics
 
 <p align="center">
@@ -77,4 +73,10 @@
 | Jira | Jest |
 |:---:|:---:|
 | <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" alt="Jira"/> | <img src="https://cdn.simpleicons.org/jest/C21325" width="48" alt="Jest"/> |
-</p> -->
+</p>
+
+## 📈 Coding Activity
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Wahab-Al&theme=github-dark)
+
+-->
