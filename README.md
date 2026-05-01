@@ -1,5 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=35&pause=500&color=ff7b00&background=FFFD2D00&width=435&lines=Full+Stack+Developer+(MERN);Backend+%26+Data+Enthusiast;Architecting+Scalable+%26;Secure+Systems)](https://git.io/typing-svg)
 
+#### 📌 Hinweis zur aktuellen Aktivität:
+Seit Juli 2024 arbeite ich Vollzeit (40h/Woche) und seit Anfang 2026 konzentriere ich mich parallel intensiv auf Bewerbungen als Softwareentwickler — daher keine neuen Projekte in dieser Zeit.
+Meine bestehenden Projekte — Rentora, Fashion Storefront, MediCare, Routing Service — spiegeln meinen aktuellen Kenntnisstand wider und sind alle live und vollständig dokumentiert.
+Ich bin ab dem ersten Tag bereit, aktiv mitzuwirken und zu coden — ich warte nur auf die richtige Gelegenheit.
 #### *⚠️Alle Projekte, die in meinem GitHub-Repository dokumentiert sind, wurden im Rahmen meines Diploms erstellt und parallel zu meiner beruflichen Tätigkeit umgesetzt.⚠️*
 
 ### 🛠 Tech Stack
