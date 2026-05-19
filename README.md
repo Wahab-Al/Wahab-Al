@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=35&pause=500&color=ff7b00&background=FFFD2D00&width=435&lines=Full+Stack+Developer+(MERN);Backend+%26+Data+Enthusiast;Architecting+Scalable+%26;Secure+Systems)](https://git.io/typing-svg)
 
-#### *⚠️Alle Projekte, die in meinem GitHub-Repository dokumentiert sind, wurden im Rahmen meines Diploms erstellt und parallel zu meiner beruflichen Tätigkeit umgesetzt.⚠️*
+#### *⚠️Alle Projekte, die in meinem GitHub-Repository dokumentiert sind, wurden im Rahmen meines Diploms realisiert — konzipiert, entwickelt und umgesetzt neben einer Vollzeitstelle (40 Std./Woche) außerhalb der IT. Nicht trotzdem. Sondern genau deshalb.⚠️*
 
 ### 🛠 Tech Stack
 
