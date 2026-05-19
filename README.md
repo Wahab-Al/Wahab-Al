@@ -24,7 +24,8 @@
 
 #### 🔧 Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,postman,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode,jest&perline=5" valign="middle" />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="48" height="48" valign="middle" style="margin-left: 4px;" />
 </p>
 
 
