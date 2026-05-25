@@ -15,6 +15,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/MVC_Architecture-2B2B2B?style=for-the-badge" alt="MVC Architecture" />
+</p>
 
 #### 🏗️ Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
