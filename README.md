@@ -2,16 +2,16 @@
 
 #### *⚠️Alle Projekte, die in meinem GitHub-Repository dokumentiert sind, wurden im Rahmen meines Diploms realisiert, konzipiert, entwickelt und umgesetzt neben einer Vollzeitstelle (40 Std./Woche) außerhalb der IT. Nicht trotzdem. Sondern genau deshalb.⚠️*
 
-### 🛠 Tech Stack
+### Tech Stack
 
 
-#### 🌐 Frontend & Core Web
+#### Frontend & Core Web
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux&perline=5" />
 </p>
 
 
-#### ⚙️ Backend & Databases
+#### Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5" />
 </p>
@@ -21,13 +21,13 @@
   <img src="https://img.shields.io/badge/MVC_Architecture-2B2B2B?style=for-the-badge" alt="MVC Architecture" />
 </p>
 
-#### 🏗️ Foundational Knowledge (DevOps & Logic)
+#### Foundational Knowledge (DevOps & Logic)
 *I am actively building my expertise in these core technologies:*
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,docker,githubactions,tailwind&perline=4" />
 </p>
 
-#### 🔧 Tools & Workflow
+#### Tools & Workflow
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,postman,vscode,jest&perline=5" valign="middle" />
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="48" height="48" valign="middle" style="margin-left: 4px;" />
@@ -35,7 +35,7 @@
 
 
 
-## 📈 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahab-Al&theme=tokyonight&hide_border=true" alt="Wahab's Streak" />
