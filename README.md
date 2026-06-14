@@ -36,12 +36,12 @@
 
 
 ## GitHub Metrics
-
+![Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Al&show_icons=true&theme=dracula)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahab-Al&theme=tokyonight&hide_border=true" alt="Wahab's Streak" />
 </p>
 
-<p align="center">
+<p align="end">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wahab-Al&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -55,7 +55,6 @@
     
   </a>
 </p>
-
 
 <!-- <p align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50"/>
