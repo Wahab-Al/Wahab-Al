@@ -13,7 +13,7 @@
 
 #### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma&perline=5" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
