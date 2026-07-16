@@ -36,7 +36,7 @@
 
 
 ## GitHub Metrics
-![Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Al&show_icons=true&theme=dracula)
+[![Wahab's GitHub stats](https://github-readme-stats.shion.dev/api?username=Wahab-Al&show_icons=true&theme=dracula)](https://github.com/Wahab-Al)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahab-Al&theme=tokyonight&hide_border=true" alt="Wahab's Streak" />
 </p>
