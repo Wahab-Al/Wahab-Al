@@ -7,17 +7,18 @@
 
 #### Frontend & Core Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,dotnet,cs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,&perline=5" />
 </p>
 
 
 #### Backend & Databases
 <p align="left">
   <!-- باقي الآيقونات من Skillicons -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma&perline=5" height="48" valign="middle" />
-  
-  <!-- شارة مخصصة لـ ADO.NET -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&perline=5" height="48" valign="middle" /><br><br/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql&perline=5" height="48" valign="middle" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="48" valign="middle" />
   <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="48" valign="middle" />
+
 </p>
 
 <p align="left">
