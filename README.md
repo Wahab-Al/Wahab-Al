@@ -7,14 +7,19 @@
 
 #### Frontend & Core Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,dotnet,cs&perline=5" />
 </p>
 
 
 #### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma&perline=5" />
+  <!-- باقي الآيقونات من Skillicons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma&perline=5" height="48" valign="middle" />
+  
+  <!-- شارة مخصصة لـ ADO.NET -->
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="48" valign="middle" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
@@ -29,7 +34,8 @@
 
 #### Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,postman,vscode,jest&perline=5" valign="middle" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="48" valign="middle" />
+  <img src="https://skillicons.dev/icons?i=postman,github,vscode,jest&perline=5" valign="middle" />
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="48" height="48" valign="middle" style="margin-left: 4px;" />
 </p>
 
